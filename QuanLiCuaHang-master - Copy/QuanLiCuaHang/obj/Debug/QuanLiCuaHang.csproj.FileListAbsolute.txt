@@ -1,0 +1,372 @@
+C:\Users\linh\source\repos\QuanLiCuaHang\QuanLiCuaHang\bin\QuanLiCuaHang.dll.config
+C:\Users\linh\source\repos\QuanLiCuaHang\QuanLiCuaHang\bin\QuanLiCuaHang.dll
+C:\Users\linh\source\repos\QuanLiCuaHang\QuanLiCuaHang\bin\QuanLiCuaHang.pdb
+C:\Users\linh\source\repos\QuanLiCuaHang\QuanLiCuaHang\bin\roslyn\csc.exe
+C:\Users\linh\source\repos\QuanLiCuaHang\QuanLiCuaHang\bin\roslyn\csc.exe.config
+C:\Users\linh\source\repos\QuanLiCuaHang\QuanLiCuaHang\bin\roslyn\csc.rsp
+C:\Users\linh\source\repos\QuanLiCuaHang\QuanLiCuaHang\bin\roslyn\csi.exe
+C:\Users\linh\source\repos\QuanLiCuaHang\QuanLiCuaHang\bin\roslyn\csi.exe.config
+C:\Users\linh\source\repos\QuanLiCuaHang\QuanLiCuaHang\bin\roslyn\csi.rsp
+C:\Users\linh\source\repos\QuanLiCuaHang\QuanLiCuaHang\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\linh\source\repos\QuanLiCuaHang\QuanLiCuaHang\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\linh\source\repos\QuanLiCuaHang\QuanLiCuaHang\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\linh\source\repos\QuanLiCuaHang\QuanLiCuaHang\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\linh\source\repos\QuanLiCuaHang\QuanLiCuaHang\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\linh\source\repos\QuanLiCuaHang\QuanLiCuaHang\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\linh\source\repos\QuanLiCuaHang\QuanLiCuaHang\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\linh\source\repos\QuanLiCuaHang\QuanLiCuaHang\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\linh\source\repos\QuanLiCuaHang\QuanLiCuaHang\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\linh\source\repos\QuanLiCuaHang\QuanLiCuaHang\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\linh\source\repos\QuanLiCuaHang\QuanLiCuaHang\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\linh\source\repos\QuanLiCuaHang\QuanLiCuaHang\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\linh\source\repos\QuanLiCuaHang\QuanLiCuaHang\bin\roslyn\System.AppContext.dll
+C:\Users\linh\source\repos\QuanLiCuaHang\QuanLiCuaHang\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\linh\source\repos\QuanLiCuaHang\QuanLiCuaHang\bin\roslyn\System.Console.dll
+C:\Users\linh\source\repos\QuanLiCuaHang\QuanLiCuaHang\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\linh\source\repos\QuanLiCuaHang\QuanLiCuaHang\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\linh\source\repos\QuanLiCuaHang\QuanLiCuaHang\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\linh\source\repos\QuanLiCuaHang\QuanLiCuaHang\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\linh\source\repos\QuanLiCuaHang\QuanLiCuaHang\bin\roslyn\System.IO.Compression.dll
+C:\Users\linh\source\repos\QuanLiCuaHang\QuanLiCuaHang\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\linh\source\repos\QuanLiCuaHang\QuanLiCuaHang\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\linh\source\repos\QuanLiCuaHang\QuanLiCuaHang\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\linh\source\repos\QuanLiCuaHang\QuanLiCuaHang\bin\roslyn\System.Net.Http.dll
+C:\Users\linh\source\repos\QuanLiCuaHang\QuanLiCuaHang\bin\roslyn\System.Net.Sockets.dll
+C:\Users\linh\source\repos\QuanLiCuaHang\QuanLiCuaHang\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\linh\source\repos\QuanLiCuaHang\QuanLiCuaHang\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\linh\source\repos\QuanLiCuaHang\QuanLiCuaHang\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\linh\source\repos\QuanLiCuaHang\QuanLiCuaHang\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\linh\source\repos\QuanLiCuaHang\QuanLiCuaHang\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\linh\source\repos\QuanLiCuaHang\QuanLiCuaHang\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\linh\source\repos\QuanLiCuaHang\QuanLiCuaHang\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\linh\source\repos\QuanLiCuaHang\QuanLiCuaHang\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\linh\source\repos\QuanLiCuaHang\QuanLiCuaHang\bin\roslyn\System.ValueTuple.dll
+C:\Users\linh\source\repos\QuanLiCuaHang\QuanLiCuaHang\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\linh\source\repos\QuanLiCuaHang\QuanLiCuaHang\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\linh\source\repos\QuanLiCuaHang\QuanLiCuaHang\bin\roslyn\System.Xml.XPath.dll
+C:\Users\linh\source\repos\QuanLiCuaHang\QuanLiCuaHang\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\linh\source\repos\QuanLiCuaHang\QuanLiCuaHang\bin\roslyn\vbc.exe
+C:\Users\linh\source\repos\QuanLiCuaHang\QuanLiCuaHang\bin\roslyn\vbc.exe.config
+C:\Users\linh\source\repos\QuanLiCuaHang\QuanLiCuaHang\bin\roslyn\vbc.rsp
+C:\Users\linh\source\repos\QuanLiCuaHang\QuanLiCuaHang\bin\roslyn\VBCSCompiler.exe
+C:\Users\linh\source\repos\QuanLiCuaHang\QuanLiCuaHang\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\linh\source\repos\QuanLiCuaHang\QuanLiCuaHang\bin\Antlr3.Runtime.dll
+C:\Users\linh\source\repos\QuanLiCuaHang\QuanLiCuaHang\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\linh\source\repos\QuanLiCuaHang\QuanLiCuaHang\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\linh\source\repos\QuanLiCuaHang\QuanLiCuaHang\bin\Newtonsoft.Json.dll
+C:\Users\linh\source\repos\QuanLiCuaHang\QuanLiCuaHang\bin\System.Web.Helpers.dll
+C:\Users\linh\source\repos\QuanLiCuaHang\QuanLiCuaHang\bin\System.Web.Mvc.dll
+C:\Users\linh\source\repos\QuanLiCuaHang\QuanLiCuaHang\bin\System.Web.Optimization.dll
+C:\Users\linh\source\repos\QuanLiCuaHang\QuanLiCuaHang\bin\System.Web.Razor.dll
+C:\Users\linh\source\repos\QuanLiCuaHang\QuanLiCuaHang\bin\System.Web.WebPages.Deployment.dll
+C:\Users\linh\source\repos\QuanLiCuaHang\QuanLiCuaHang\bin\System.Web.WebPages.dll
+C:\Users\linh\source\repos\QuanLiCuaHang\QuanLiCuaHang\bin\System.Web.WebPages.Razor.dll
+C:\Users\linh\source\repos\QuanLiCuaHang\QuanLiCuaHang\bin\WebGrease.dll
+C:\Users\linh\source\repos\QuanLiCuaHang\QuanLiCuaHang\bin\System.Web.Helpers.xml
+C:\Users\linh\source\repos\QuanLiCuaHang\QuanLiCuaHang\bin\System.Web.Mvc.xml
+C:\Users\linh\source\repos\QuanLiCuaHang\QuanLiCuaHang\bin\System.Web.Optimization.xml
+C:\Users\linh\source\repos\QuanLiCuaHang\QuanLiCuaHang\bin\System.Web.Razor.xml
+C:\Users\linh\source\repos\QuanLiCuaHang\QuanLiCuaHang\bin\System.Web.WebPages.xml
+C:\Users\linh\source\repos\QuanLiCuaHang\QuanLiCuaHang\bin\System.Web.WebPages.Deployment.xml
+C:\Users\linh\source\repos\QuanLiCuaHang\QuanLiCuaHang\bin\System.Web.WebPages.Razor.xml
+C:\Users\linh\source\repos\QuanLiCuaHang\QuanLiCuaHang\bin\Newtonsoft.Json.xml
+C:\Users\linh\source\repos\QuanLiCuaHang\QuanLiCuaHang\bin\Antlr3.Runtime.pdb
+C:\Users\linh\source\repos\QuanLiCuaHang\QuanLiCuaHang\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\linh\source\repos\QuanLiCuaHang\QuanLiCuaHang\obj\Debug\QuanLiCuaHang.csproj.CoreCompileInputs.cache
+C:\Users\linh\source\repos\QuanLiCuaHang\QuanLiCuaHang\obj\Debug\QuanLiCuaHang.csproj.CopyComplete
+C:\Users\linh\source\repos\QuanLiCuaHang\QuanLiCuaHang\obj\Debug\QuanLiCuaHang.dll
+C:\Users\linh\source\repos\QuanLiCuaHang\QuanLiCuaHang\obj\Debug\QuanLiCuaHang.pdb
+C:\Users\linh\source\repos\QuanLiCuaHang\QuanLiCuaHang\bin\EntityFramework.dll
+C:\Users\linh\source\repos\QuanLiCuaHang\QuanLiCuaHang\bin\EntityFramework.SqlServer.dll
+C:\Users\linh\source\repos\QuanLiCuaHang\QuanLiCuaHang\bin\EntityFramework.xml
+C:\Users\linh\source\repos\QuanLiCuaHang\QuanLiCuaHang\bin\EntityFramework.SqlServer.xml
+C:\Users\linh\source\repos\QuanLiCuaHang\QuanLiCuaHang\bin\System.Net.Http.Formatting.dll
+C:\Users\linh\source\repos\QuanLiCuaHang\QuanLiCuaHang\bin\System.Web.Http.dll
+C:\Users\linh\source\repos\QuanLiCuaHang\QuanLiCuaHang\bin\System.Net.Http.Formatting.xml
+C:\Users\linh\source\repos\QuanLiCuaHang\QuanLiCuaHang\bin\System.Web.Http.xml
+C:\Users\linh\source\repos\QuanLiCuaHang\QuanLiCuaHang\obj\Debug\QuanLiCuaHang.csprojAssemblyReference.cache
+C:\Users\linh\source\repos\QuanLiCuaHang-master\QuanLiCuaHang\obj\Debug\QuanLiCuaHang.csproj.CoreCompileInputs.cache
+C:\Users\linh\source\repos\QuanLiCuaHang-master\QuanLiCuaHang\obj\Debug\QuanLiCuaHang.dll
+C:\Users\linh\source\repos\QuanLiCuaHang-master\QuanLiCuaHang\obj\Debug\QuanLiCuaHang.pdb
+C:\Users\linh\source\repos\QuanLiCuaHang-master\QuanLiCuaHang\bin\QuanLiCuaHang.dll.config
+C:\Users\linh\source\repos\QuanLiCuaHang-master\QuanLiCuaHang\bin\QuanLiCuaHang.dll
+C:\Users\linh\source\repos\QuanLiCuaHang-master\QuanLiCuaHang\bin\QuanLiCuaHang.pdb
+C:\Users\linh\source\repos\QuanLiCuaHang-master\QuanLiCuaHang\bin\roslyn\csc.exe
+C:\Users\linh\source\repos\QuanLiCuaHang-master\QuanLiCuaHang\bin\roslyn\csc.exe.config
+C:\Users\linh\source\repos\QuanLiCuaHang-master\QuanLiCuaHang\bin\roslyn\csc.rsp
+C:\Users\linh\source\repos\QuanLiCuaHang-master\QuanLiCuaHang\bin\roslyn\csi.exe
+C:\Users\linh\source\repos\QuanLiCuaHang-master\QuanLiCuaHang\bin\roslyn\csi.exe.config
+C:\Users\linh\source\repos\QuanLiCuaHang-master\QuanLiCuaHang\bin\roslyn\csi.rsp
+C:\Users\linh\source\repos\QuanLiCuaHang-master\QuanLiCuaHang\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\linh\source\repos\QuanLiCuaHang-master\QuanLiCuaHang\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\linh\source\repos\QuanLiCuaHang-master\QuanLiCuaHang\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\linh\source\repos\QuanLiCuaHang-master\QuanLiCuaHang\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\linh\source\repos\QuanLiCuaHang-master\QuanLiCuaHang\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\linh\source\repos\QuanLiCuaHang-master\QuanLiCuaHang\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\linh\source\repos\QuanLiCuaHang-master\QuanLiCuaHang\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\linh\source\repos\QuanLiCuaHang-master\QuanLiCuaHang\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\linh\source\repos\QuanLiCuaHang-master\QuanLiCuaHang\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\linh\source\repos\QuanLiCuaHang-master\QuanLiCuaHang\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\linh\source\repos\QuanLiCuaHang-master\QuanLiCuaHang\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\linh\source\repos\QuanLiCuaHang-master\QuanLiCuaHang\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\linh\source\repos\QuanLiCuaHang-master\QuanLiCuaHang\bin\roslyn\System.AppContext.dll
+C:\Users\linh\source\repos\QuanLiCuaHang-master\QuanLiCuaHang\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\linh\source\repos\QuanLiCuaHang-master\QuanLiCuaHang\bin\roslyn\System.Console.dll
+C:\Users\linh\source\repos\QuanLiCuaHang-master\QuanLiCuaHang\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\linh\source\repos\QuanLiCuaHang-master\QuanLiCuaHang\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\linh\source\repos\QuanLiCuaHang-master\QuanLiCuaHang\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\linh\source\repos\QuanLiCuaHang-master\QuanLiCuaHang\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\linh\source\repos\QuanLiCuaHang-master\QuanLiCuaHang\bin\roslyn\System.IO.Compression.dll
+C:\Users\linh\source\repos\QuanLiCuaHang-master\QuanLiCuaHang\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\linh\source\repos\QuanLiCuaHang-master\QuanLiCuaHang\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\linh\source\repos\QuanLiCuaHang-master\QuanLiCuaHang\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\linh\source\repos\QuanLiCuaHang-master\QuanLiCuaHang\bin\roslyn\System.Net.Http.dll
+C:\Users\linh\source\repos\QuanLiCuaHang-master\QuanLiCuaHang\bin\roslyn\System.Net.Sockets.dll
+C:\Users\linh\source\repos\QuanLiCuaHang-master\QuanLiCuaHang\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\linh\source\repos\QuanLiCuaHang-master\QuanLiCuaHang\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\linh\source\repos\QuanLiCuaHang-master\QuanLiCuaHang\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\linh\source\repos\QuanLiCuaHang-master\QuanLiCuaHang\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\linh\source\repos\QuanLiCuaHang-master\QuanLiCuaHang\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\linh\source\repos\QuanLiCuaHang-master\QuanLiCuaHang\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\linh\source\repos\QuanLiCuaHang-master\QuanLiCuaHang\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\linh\source\repos\QuanLiCuaHang-master\QuanLiCuaHang\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\linh\source\repos\QuanLiCuaHang-master\QuanLiCuaHang\bin\roslyn\System.ValueTuple.dll
+C:\Users\linh\source\repos\QuanLiCuaHang-master\QuanLiCuaHang\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\linh\source\repos\QuanLiCuaHang-master\QuanLiCuaHang\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\linh\source\repos\QuanLiCuaHang-master\QuanLiCuaHang\bin\roslyn\System.Xml.XPath.dll
+C:\Users\linh\source\repos\QuanLiCuaHang-master\QuanLiCuaHang\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\linh\source\repos\QuanLiCuaHang-master\QuanLiCuaHang\bin\roslyn\vbc.exe
+C:\Users\linh\source\repos\QuanLiCuaHang-master\QuanLiCuaHang\bin\roslyn\vbc.exe.config
+C:\Users\linh\source\repos\QuanLiCuaHang-master\QuanLiCuaHang\bin\roslyn\vbc.rsp
+C:\Users\linh\source\repos\QuanLiCuaHang-master\QuanLiCuaHang\bin\roslyn\VBCSCompiler.exe
+C:\Users\linh\source\repos\QuanLiCuaHang-master\QuanLiCuaHang\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\linh\source\repos\QuanLiCuaHang-master\QuanLiCuaHang\bin\Antlr3.Runtime.dll
+C:\Users\linh\source\repos\QuanLiCuaHang-master\QuanLiCuaHang\bin\EntityFramework.dll
+C:\Users\linh\source\repos\QuanLiCuaHang-master\QuanLiCuaHang\bin\EntityFramework.SqlServer.dll
+C:\Users\linh\source\repos\QuanLiCuaHang-master\QuanLiCuaHang\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\linh\source\repos\QuanLiCuaHang-master\QuanLiCuaHang\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\linh\source\repos\QuanLiCuaHang-master\QuanLiCuaHang\bin\Newtonsoft.Json.dll
+C:\Users\linh\source\repos\QuanLiCuaHang-master\QuanLiCuaHang\bin\System.Net.Http.Formatting.dll
+C:\Users\linh\source\repos\QuanLiCuaHang-master\QuanLiCuaHang\bin\System.Web.Helpers.dll
+C:\Users\linh\source\repos\QuanLiCuaHang-master\QuanLiCuaHang\bin\System.Web.Http.dll
+C:\Users\linh\source\repos\QuanLiCuaHang-master\QuanLiCuaHang\bin\System.Web.Mvc.dll
+C:\Users\linh\source\repos\QuanLiCuaHang-master\QuanLiCuaHang\bin\System.Web.Optimization.dll
+C:\Users\linh\source\repos\QuanLiCuaHang-master\QuanLiCuaHang\bin\System.Web.Razor.dll
+C:\Users\linh\source\repos\QuanLiCuaHang-master\QuanLiCuaHang\bin\System.Web.WebPages.Deployment.dll
+C:\Users\linh\source\repos\QuanLiCuaHang-master\QuanLiCuaHang\bin\System.Web.WebPages.dll
+C:\Users\linh\source\repos\QuanLiCuaHang-master\QuanLiCuaHang\bin\System.Web.WebPages.Razor.dll
+C:\Users\linh\source\repos\QuanLiCuaHang-master\QuanLiCuaHang\bin\WebGrease.dll
+C:\Users\linh\source\repos\QuanLiCuaHang-master\QuanLiCuaHang\bin\EntityFramework.xml
+C:\Users\linh\source\repos\QuanLiCuaHang-master\QuanLiCuaHang\bin\EntityFramework.SqlServer.xml
+C:\Users\linh\source\repos\QuanLiCuaHang-master\QuanLiCuaHang\bin\System.Net.Http.Formatting.xml
+C:\Users\linh\source\repos\QuanLiCuaHang-master\QuanLiCuaHang\bin\System.Web.Http.xml
+C:\Users\linh\source\repos\QuanLiCuaHang-master\QuanLiCuaHang\bin\System.Web.Helpers.xml
+C:\Users\linh\source\repos\QuanLiCuaHang-master\QuanLiCuaHang\bin\System.Web.Mvc.xml
+C:\Users\linh\source\repos\QuanLiCuaHang-master\QuanLiCuaHang\bin\System.Web.Optimization.xml
+C:\Users\linh\source\repos\QuanLiCuaHang-master\QuanLiCuaHang\bin\System.Web.Razor.xml
+C:\Users\linh\source\repos\QuanLiCuaHang-master\QuanLiCuaHang\bin\System.Web.WebPages.xml
+C:\Users\linh\source\repos\QuanLiCuaHang-master\QuanLiCuaHang\bin\System.Web.WebPages.Deployment.xml
+C:\Users\linh\source\repos\QuanLiCuaHang-master\QuanLiCuaHang\bin\System.Web.WebPages.Razor.xml
+C:\Users\linh\source\repos\QuanLiCuaHang-master\QuanLiCuaHang\bin\Newtonsoft.Json.xml
+C:\Users\linh\source\repos\QuanLiCuaHang-master\QuanLiCuaHang\bin\Antlr3.Runtime.pdb
+C:\Users\linh\source\repos\QuanLiCuaHang-master\QuanLiCuaHang\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\linh\source\repos\QuanLiCuaHang-master\QuanLiCuaHang\obj\Debug\QuanLiCuaHang.csproj.CopyComplete
+C:\Users\linh\source\repos\QuanLiCuaHang-master\QuanLiCuaHang\bin\ClosedXML.dll
+C:\Users\linh\source\repos\QuanLiCuaHang-master\QuanLiCuaHang\bin\DocumentFormat.OpenXml.dll
+C:\Users\linh\source\repos\QuanLiCuaHang-master\QuanLiCuaHang\bin\ExcelNumberFormat.dll
+C:\Users\linh\source\repos\QuanLiCuaHang-master\QuanLiCuaHang\bin\System.IO.Packaging.dll
+C:\Users\linh\source\repos\QuanLiCuaHang-master\QuanLiCuaHang\bin\ClosedXML.pdb
+C:\Users\linh\source\repos\QuanLiCuaHang-master\QuanLiCuaHang\bin\ClosedXML.xml
+C:\Users\linh\source\repos\QuanLiCuaHang-master\QuanLiCuaHang\bin\DocumentFormat.OpenXml.xml
+C:\Users\linh\source\repos\QuanLiCuaHang-master\QuanLiCuaHang\bin\ExcelNumberFormat.xml
+C:\Users\linh\source\repos\QuanLiCuaHang-master\QuanLiCuaHang\obj\Debug\QuanLiCuaHang.csprojAssemblyReference.cache
+D:\QuanLiCuaHang-master\QuanLiCuaHang\obj\Debug\QuanLiCuaHang.csprojAssemblyReference.cache
+D:\QuanLiCuaHang-master\QuanLiCuaHang\obj\Debug\QuanLiCuaHang.csproj.CoreCompileInputs.cache
+D:\QuanLiCuaHang-master\QuanLiCuaHang\obj\Debug\QuanLiCuaHang.dll
+D:\QuanLiCuaHang-master\QuanLiCuaHang\obj\Debug\QuanLiCuaHang.pdb
+D:\QuanLiCuaHang-master\QuanLiCuaHang\bin\QuanLiCuaHang.dll.config
+D:\QuanLiCuaHang-master\QuanLiCuaHang\bin\QuanLiCuaHang.dll
+D:\QuanLiCuaHang-master\QuanLiCuaHang\bin\QuanLiCuaHang.pdb
+D:\QuanLiCuaHang-master\QuanLiCuaHang\bin\roslyn\csc.exe
+D:\QuanLiCuaHang-master\QuanLiCuaHang\bin\roslyn\csc.exe.config
+D:\QuanLiCuaHang-master\QuanLiCuaHang\bin\roslyn\csc.rsp
+D:\QuanLiCuaHang-master\QuanLiCuaHang\bin\roslyn\csi.exe
+D:\QuanLiCuaHang-master\QuanLiCuaHang\bin\roslyn\csi.exe.config
+D:\QuanLiCuaHang-master\QuanLiCuaHang\bin\roslyn\csi.rsp
+D:\QuanLiCuaHang-master\QuanLiCuaHang\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\QuanLiCuaHang-master\QuanLiCuaHang\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\QuanLiCuaHang-master\QuanLiCuaHang\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\QuanLiCuaHang-master\QuanLiCuaHang\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\QuanLiCuaHang-master\QuanLiCuaHang\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\QuanLiCuaHang-master\QuanLiCuaHang\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\QuanLiCuaHang-master\QuanLiCuaHang\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\QuanLiCuaHang-master\QuanLiCuaHang\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\QuanLiCuaHang-master\QuanLiCuaHang\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\QuanLiCuaHang-master\QuanLiCuaHang\bin\roslyn\Microsoft.Managed.Core.targets
+D:\QuanLiCuaHang-master\QuanLiCuaHang\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\QuanLiCuaHang-master\QuanLiCuaHang\bin\roslyn\Microsoft.Win32.Primitives.dll
+D:\QuanLiCuaHang-master\QuanLiCuaHang\bin\roslyn\System.AppContext.dll
+D:\QuanLiCuaHang-master\QuanLiCuaHang\bin\roslyn\System.Collections.Immutable.dll
+D:\QuanLiCuaHang-master\QuanLiCuaHang\bin\roslyn\System.Console.dll
+D:\QuanLiCuaHang-master\QuanLiCuaHang\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+D:\QuanLiCuaHang-master\QuanLiCuaHang\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\QuanLiCuaHang-master\QuanLiCuaHang\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\QuanLiCuaHang-master\QuanLiCuaHang\bin\roslyn\System.Globalization.Calendars.dll
+D:\QuanLiCuaHang-master\QuanLiCuaHang\bin\roslyn\System.IO.Compression.dll
+D:\QuanLiCuaHang-master\QuanLiCuaHang\bin\roslyn\System.IO.Compression.ZipFile.dll
+D:\QuanLiCuaHang-master\QuanLiCuaHang\bin\roslyn\System.IO.FileSystem.dll
+D:\QuanLiCuaHang-master\QuanLiCuaHang\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\QuanLiCuaHang-master\QuanLiCuaHang\bin\roslyn\System.Net.Http.dll
+D:\QuanLiCuaHang-master\QuanLiCuaHang\bin\roslyn\System.Net.Sockets.dll
+D:\QuanLiCuaHang-master\QuanLiCuaHang\bin\roslyn\System.Reflection.Metadata.dll
+D:\QuanLiCuaHang-master\QuanLiCuaHang\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+D:\QuanLiCuaHang-master\QuanLiCuaHang\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\QuanLiCuaHang-master\QuanLiCuaHang\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\QuanLiCuaHang-master\QuanLiCuaHang\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\QuanLiCuaHang-master\QuanLiCuaHang\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\QuanLiCuaHang-master\QuanLiCuaHang\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\QuanLiCuaHang-master\QuanLiCuaHang\bin\roslyn\System.Threading.Tasks.Extensions.dll
+D:\QuanLiCuaHang-master\QuanLiCuaHang\bin\roslyn\System.ValueTuple.dll
+D:\QuanLiCuaHang-master\QuanLiCuaHang\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\QuanLiCuaHang-master\QuanLiCuaHang\bin\roslyn\System.Xml.XmlDocument.dll
+D:\QuanLiCuaHang-master\QuanLiCuaHang\bin\roslyn\System.Xml.XPath.dll
+D:\QuanLiCuaHang-master\QuanLiCuaHang\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\QuanLiCuaHang-master\QuanLiCuaHang\bin\roslyn\vbc.exe
+D:\QuanLiCuaHang-master\QuanLiCuaHang\bin\roslyn\vbc.exe.config
+D:\QuanLiCuaHang-master\QuanLiCuaHang\bin\roslyn\vbc.rsp
+D:\QuanLiCuaHang-master\QuanLiCuaHang\bin\roslyn\VBCSCompiler.exe
+D:\QuanLiCuaHang-master\QuanLiCuaHang\bin\roslyn\VBCSCompiler.exe.config
+D:\QuanLiCuaHang-master\QuanLiCuaHang\bin\Antlr3.Runtime.dll
+D:\QuanLiCuaHang-master\QuanLiCuaHang\bin\ClosedXML.dll
+D:\QuanLiCuaHang-master\QuanLiCuaHang\bin\DocumentFormat.OpenXml.dll
+D:\QuanLiCuaHang-master\QuanLiCuaHang\bin\EntityFramework.dll
+D:\QuanLiCuaHang-master\QuanLiCuaHang\bin\EntityFramework.SqlServer.dll
+D:\QuanLiCuaHang-master\QuanLiCuaHang\bin\ExcelNumberFormat.dll
+D:\QuanLiCuaHang-master\QuanLiCuaHang\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\QuanLiCuaHang-master\QuanLiCuaHang\bin\Microsoft.Web.Infrastructure.dll
+D:\QuanLiCuaHang-master\QuanLiCuaHang\bin\Newtonsoft.Json.dll
+D:\QuanLiCuaHang-master\QuanLiCuaHang\bin\System.IO.Packaging.dll
+D:\QuanLiCuaHang-master\QuanLiCuaHang\bin\System.Net.Http.Formatting.dll
+D:\QuanLiCuaHang-master\QuanLiCuaHang\bin\System.Web.Helpers.dll
+D:\QuanLiCuaHang-master\QuanLiCuaHang\bin\System.Web.Http.dll
+D:\QuanLiCuaHang-master\QuanLiCuaHang\bin\System.Web.Mvc.dll
+D:\QuanLiCuaHang-master\QuanLiCuaHang\bin\System.Web.Optimization.dll
+D:\QuanLiCuaHang-master\QuanLiCuaHang\bin\System.Web.Razor.dll
+D:\QuanLiCuaHang-master\QuanLiCuaHang\bin\System.Web.WebPages.Deployment.dll
+D:\QuanLiCuaHang-master\QuanLiCuaHang\bin\System.Web.WebPages.dll
+D:\QuanLiCuaHang-master\QuanLiCuaHang\bin\System.Web.WebPages.Razor.dll
+D:\QuanLiCuaHang-master\QuanLiCuaHang\bin\WebGrease.dll
+D:\QuanLiCuaHang-master\QuanLiCuaHang\bin\ClosedXML.pdb
+D:\QuanLiCuaHang-master\QuanLiCuaHang\bin\ClosedXML.xml
+D:\QuanLiCuaHang-master\QuanLiCuaHang\bin\DocumentFormat.OpenXml.xml
+D:\QuanLiCuaHang-master\QuanLiCuaHang\bin\EntityFramework.xml
+D:\QuanLiCuaHang-master\QuanLiCuaHang\bin\EntityFramework.SqlServer.xml
+D:\QuanLiCuaHang-master\QuanLiCuaHang\bin\ExcelNumberFormat.xml
+D:\QuanLiCuaHang-master\QuanLiCuaHang\bin\System.Net.Http.Formatting.xml
+D:\QuanLiCuaHang-master\QuanLiCuaHang\bin\System.Web.Http.xml
+D:\QuanLiCuaHang-master\QuanLiCuaHang\bin\System.Web.Helpers.xml
+D:\QuanLiCuaHang-master\QuanLiCuaHang\bin\System.Web.Mvc.xml
+D:\QuanLiCuaHang-master\QuanLiCuaHang\bin\System.Web.Optimization.xml
+D:\QuanLiCuaHang-master\QuanLiCuaHang\bin\System.Web.Razor.xml
+D:\QuanLiCuaHang-master\QuanLiCuaHang\bin\System.Web.WebPages.xml
+D:\QuanLiCuaHang-master\QuanLiCuaHang\bin\System.Web.WebPages.Deployment.xml
+D:\QuanLiCuaHang-master\QuanLiCuaHang\bin\System.Web.WebPages.Razor.xml
+D:\QuanLiCuaHang-master\QuanLiCuaHang\bin\Newtonsoft.Json.xml
+D:\QuanLiCuaHang-master\QuanLiCuaHang\bin\Antlr3.Runtime.pdb
+D:\QuanLiCuaHang-master\QuanLiCuaHang\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\QuanLiCuaHang-master\QuanLiCuaHang\obj\Debug\QuanLiCuaHang.csproj.CopyComplete
+D:\QuanLiCuaHang-master - Copy\QuanLiCuaHang\bin\QuanLiCuaHang.dll.config
+D:\QuanLiCuaHang-master - Copy\QuanLiCuaHang\bin\QuanLiCuaHang.dll
+D:\QuanLiCuaHang-master - Copy\QuanLiCuaHang\bin\QuanLiCuaHang.pdb
+D:\QuanLiCuaHang-master - Copy\QuanLiCuaHang\bin\roslyn\csc.exe
+D:\QuanLiCuaHang-master - Copy\QuanLiCuaHang\bin\roslyn\csc.exe.config
+D:\QuanLiCuaHang-master - Copy\QuanLiCuaHang\bin\roslyn\csc.rsp
+D:\QuanLiCuaHang-master - Copy\QuanLiCuaHang\bin\roslyn\csi.exe
+D:\QuanLiCuaHang-master - Copy\QuanLiCuaHang\bin\roslyn\csi.exe.config
+D:\QuanLiCuaHang-master - Copy\QuanLiCuaHang\bin\roslyn\csi.rsp
+D:\QuanLiCuaHang-master - Copy\QuanLiCuaHang\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\QuanLiCuaHang-master - Copy\QuanLiCuaHang\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\QuanLiCuaHang-master - Copy\QuanLiCuaHang\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\QuanLiCuaHang-master - Copy\QuanLiCuaHang\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\QuanLiCuaHang-master - Copy\QuanLiCuaHang\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\QuanLiCuaHang-master - Copy\QuanLiCuaHang\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\QuanLiCuaHang-master - Copy\QuanLiCuaHang\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\QuanLiCuaHang-master - Copy\QuanLiCuaHang\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\QuanLiCuaHang-master - Copy\QuanLiCuaHang\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\QuanLiCuaHang-master - Copy\QuanLiCuaHang\bin\roslyn\Microsoft.Managed.Core.targets
+D:\QuanLiCuaHang-master - Copy\QuanLiCuaHang\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\QuanLiCuaHang-master - Copy\QuanLiCuaHang\bin\roslyn\Microsoft.Win32.Primitives.dll
+D:\QuanLiCuaHang-master - Copy\QuanLiCuaHang\bin\roslyn\System.AppContext.dll
+D:\QuanLiCuaHang-master - Copy\QuanLiCuaHang\bin\roslyn\System.Collections.Immutable.dll
+D:\QuanLiCuaHang-master - Copy\QuanLiCuaHang\bin\roslyn\System.Console.dll
+D:\QuanLiCuaHang-master - Copy\QuanLiCuaHang\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+D:\QuanLiCuaHang-master - Copy\QuanLiCuaHang\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\QuanLiCuaHang-master - Copy\QuanLiCuaHang\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\QuanLiCuaHang-master - Copy\QuanLiCuaHang\bin\roslyn\System.Globalization.Calendars.dll
+D:\QuanLiCuaHang-master - Copy\QuanLiCuaHang\bin\roslyn\System.IO.Compression.dll
+D:\QuanLiCuaHang-master - Copy\QuanLiCuaHang\bin\roslyn\System.IO.Compression.ZipFile.dll
+D:\QuanLiCuaHang-master - Copy\QuanLiCuaHang\bin\roslyn\System.IO.FileSystem.dll
+D:\QuanLiCuaHang-master - Copy\QuanLiCuaHang\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\QuanLiCuaHang-master - Copy\QuanLiCuaHang\bin\roslyn\System.Net.Http.dll
+D:\QuanLiCuaHang-master - Copy\QuanLiCuaHang\bin\roslyn\System.Net.Sockets.dll
+D:\QuanLiCuaHang-master - Copy\QuanLiCuaHang\bin\roslyn\System.Reflection.Metadata.dll
+D:\QuanLiCuaHang-master - Copy\QuanLiCuaHang\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+D:\QuanLiCuaHang-master - Copy\QuanLiCuaHang\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\QuanLiCuaHang-master - Copy\QuanLiCuaHang\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\QuanLiCuaHang-master - Copy\QuanLiCuaHang\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\QuanLiCuaHang-master - Copy\QuanLiCuaHang\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\QuanLiCuaHang-master - Copy\QuanLiCuaHang\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\QuanLiCuaHang-master - Copy\QuanLiCuaHang\bin\roslyn\System.Threading.Tasks.Extensions.dll
+D:\QuanLiCuaHang-master - Copy\QuanLiCuaHang\bin\roslyn\System.ValueTuple.dll
+D:\QuanLiCuaHang-master - Copy\QuanLiCuaHang\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\QuanLiCuaHang-master - Copy\QuanLiCuaHang\bin\roslyn\System.Xml.XmlDocument.dll
+D:\QuanLiCuaHang-master - Copy\QuanLiCuaHang\bin\roslyn\System.Xml.XPath.dll
+D:\QuanLiCuaHang-master - Copy\QuanLiCuaHang\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\QuanLiCuaHang-master - Copy\QuanLiCuaHang\bin\roslyn\vbc.exe
+D:\QuanLiCuaHang-master - Copy\QuanLiCuaHang\bin\roslyn\vbc.exe.config
+D:\QuanLiCuaHang-master - Copy\QuanLiCuaHang\bin\roslyn\vbc.rsp
+D:\QuanLiCuaHang-master - Copy\QuanLiCuaHang\bin\roslyn\VBCSCompiler.exe
+D:\QuanLiCuaHang-master - Copy\QuanLiCuaHang\bin\roslyn\VBCSCompiler.exe.config
+D:\QuanLiCuaHang-master - Copy\QuanLiCuaHang\bin\Antlr3.Runtime.dll
+D:\QuanLiCuaHang-master - Copy\QuanLiCuaHang\bin\ClosedXML.dll
+D:\QuanLiCuaHang-master - Copy\QuanLiCuaHang\bin\DocumentFormat.OpenXml.dll
+D:\QuanLiCuaHang-master - Copy\QuanLiCuaHang\bin\EntityFramework.dll
+D:\QuanLiCuaHang-master - Copy\QuanLiCuaHang\bin\EntityFramework.SqlServer.dll
+D:\QuanLiCuaHang-master - Copy\QuanLiCuaHang\bin\ExcelNumberFormat.dll
+D:\QuanLiCuaHang-master - Copy\QuanLiCuaHang\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\QuanLiCuaHang-master - Copy\QuanLiCuaHang\bin\Microsoft.Web.Infrastructure.dll
+D:\QuanLiCuaHang-master - Copy\QuanLiCuaHang\bin\Newtonsoft.Json.dll
+D:\QuanLiCuaHang-master - Copy\QuanLiCuaHang\bin\System.IO.Packaging.dll
+D:\QuanLiCuaHang-master - Copy\QuanLiCuaHang\bin\System.Net.Http.Formatting.dll
+D:\QuanLiCuaHang-master - Copy\QuanLiCuaHang\bin\System.Web.Helpers.dll
+D:\QuanLiCuaHang-master - Copy\QuanLiCuaHang\bin\System.Web.Http.dll
+D:\QuanLiCuaHang-master - Copy\QuanLiCuaHang\bin\System.Web.Mvc.dll
+D:\QuanLiCuaHang-master - Copy\QuanLiCuaHang\bin\System.Web.Optimization.dll
+D:\QuanLiCuaHang-master - Copy\QuanLiCuaHang\bin\System.Web.Razor.dll
+D:\QuanLiCuaHang-master - Copy\QuanLiCuaHang\bin\System.Web.WebPages.Deployment.dll
+D:\QuanLiCuaHang-master - Copy\QuanLiCuaHang\bin\System.Web.WebPages.dll
+D:\QuanLiCuaHang-master - Copy\QuanLiCuaHang\bin\System.Web.WebPages.Razor.dll
+D:\QuanLiCuaHang-master - Copy\QuanLiCuaHang\bin\WebGrease.dll
+D:\QuanLiCuaHang-master - Copy\QuanLiCuaHang\bin\ClosedXML.pdb
+D:\QuanLiCuaHang-master - Copy\QuanLiCuaHang\bin\ClosedXML.xml
+D:\QuanLiCuaHang-master - Copy\QuanLiCuaHang\bin\DocumentFormat.OpenXml.xml
+D:\QuanLiCuaHang-master - Copy\QuanLiCuaHang\bin\EntityFramework.xml
+D:\QuanLiCuaHang-master - Copy\QuanLiCuaHang\bin\EntityFramework.SqlServer.xml
+D:\QuanLiCuaHang-master - Copy\QuanLiCuaHang\bin\ExcelNumberFormat.xml
+D:\QuanLiCuaHang-master - Copy\QuanLiCuaHang\bin\System.Net.Http.Formatting.xml
+D:\QuanLiCuaHang-master - Copy\QuanLiCuaHang\bin\System.Web.Http.xml
+D:\QuanLiCuaHang-master - Copy\QuanLiCuaHang\bin\System.Web.Helpers.xml
+D:\QuanLiCuaHang-master - Copy\QuanLiCuaHang\bin\System.Web.Mvc.xml
+D:\QuanLiCuaHang-master - Copy\QuanLiCuaHang\bin\System.Web.Optimization.xml
+D:\QuanLiCuaHang-master - Copy\QuanLiCuaHang\bin\System.Web.Razor.xml
+D:\QuanLiCuaHang-master - Copy\QuanLiCuaHang\bin\System.Web.WebPages.xml
+D:\QuanLiCuaHang-master - Copy\QuanLiCuaHang\bin\System.Web.WebPages.Deployment.xml
+D:\QuanLiCuaHang-master - Copy\QuanLiCuaHang\bin\System.Web.WebPages.Razor.xml
+D:\QuanLiCuaHang-master - Copy\QuanLiCuaHang\bin\Newtonsoft.Json.xml
+D:\QuanLiCuaHang-master - Copy\QuanLiCuaHang\bin\Antlr3.Runtime.pdb
+D:\QuanLiCuaHang-master - Copy\QuanLiCuaHang\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\QuanLiCuaHang-master - Copy\QuanLiCuaHang\obj\Debug\QuanLiCuaHang.csprojAssemblyReference.cache
+D:\QuanLiCuaHang-master - Copy\QuanLiCuaHang\obj\Debug\QuanLiCuaHang.csproj.CoreCompileInputs.cache
+D:\QuanLiCuaHang-master - Copy\QuanLiCuaHang\obj\Debug\QuanLiCuaHang.csproj.CopyComplete
+D:\QuanLiCuaHang-master - Copy\QuanLiCuaHang\obj\Debug\QuanLiCuaHang.dll
+D:\QuanLiCuaHang-master - Copy\QuanLiCuaHang\obj\Debug\QuanLiCuaHang.pdb
